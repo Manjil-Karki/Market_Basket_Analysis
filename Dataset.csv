@@ -1,6 +1,6 @@
 T_Id,Items
-1,"['cheese', 'milk']"
-2,"['milk', 'juice', 'bread', 'cheese']"
-3,"['bread', 'cheese', 'yogurt', 'egg', 'juice']"
-4,"['milk', 'juice', 'egg', 'bread']"
-5,"['bread', 'juice', 'egg', 'cheese']"
+1,"['yogurt', 'milk']"
+2,"['juice', 'bread']"
+3,"['juice', 'cheese', 'egg', 'yogurt', 'milk']"
+4,"['juice', 'bread', 'yogurt']"
+5,"['bread', 'cheese', 'milk', 'egg']"
