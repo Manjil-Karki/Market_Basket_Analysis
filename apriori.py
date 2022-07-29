@@ -116,7 +116,7 @@ if __name__ == '__main__':
     if does_have.lower()[0] == "y":
         path = input("Enter Dataset path(.../*.csv):")
         df = pd.read_csv(path)
-        df["Items"] = df["Items"].apply(lambda x : x[1:-1].replace(" ", "").split(","))
+        df["Items"] = df["Items"].apply(lambda x : x[1:-1].replace(" ", "").replace("'", "").split(","))
     else:
         print("Working with sample shown above.")
         df = sample_df
