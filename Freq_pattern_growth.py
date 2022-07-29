@@ -1,5 +1,3 @@
-from doctest import testsource
-from typing import OrderedDict
 import numpy as np
 import pandas as pd
 from create_dataset import dataset_creator
