@@ -1,0 +1,6 @@
+T_Id,Items
+1,"['egg', 'milk', 'cheese', 'bread', 'yogurt']"
+2,"['milk', 'yogurt']"
+3,"['yogurt', 'cheese', 'egg', 'milk']"
+4,"['bread', 'yogurt', 'egg']"
+5,"['cheese', 'bread', 'egg', 'yogurt']"
